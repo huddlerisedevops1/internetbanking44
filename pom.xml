@@ -10,7 +10,7 @@
   <properties>
   
   <spring.version></spring.version>
-    <sonar.host.url>http://13.233.109.133:9000/</sonar.host.url>
+   <!-- <sonar.host.url>http://13.233.109.133:9000/</sonar.host.url>-->
   <!-- <sonar.login>admin</sonar.login> 
   <sonar.password>admin</sonar.password> -->
   <!--     <sonar.login>56174210756b403d275073d79de6eae5bac013f9</sonar.login> -->
@@ -19,7 +19,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.4</version>
+      <version>3.6.3</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
